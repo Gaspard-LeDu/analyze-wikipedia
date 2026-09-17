@@ -1,3 +1,4 @@
 # README.md
 
-• src
+• src : Python scripts
+• notebooks: notebooks
