@@ -1,2 +1,4 @@
 README-checkpoiont.md
 .gitignore-checkpoint
+*.parquet
+*_checkpoint*
